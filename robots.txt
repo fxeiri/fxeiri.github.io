@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fxeiri.github.io/VKE/sitemap.VKE.gz
